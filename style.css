@@ -1,0 +1,71 @@
+.mostarda{
+    background-color: #B7730E;
+
+}
+
+.cinza{
+    background-color: #848484;
+}
+
+.titulo{
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+    font-size: 91px;
+    display: flex;
+    justify-content:center;
+       
+}
+
+.texto{
+    font-family: 'Inter', sem serifa;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: justify;
+    margin: 35px;
+
+}
+
+.estrutura{
+    display: grid;
+    margin:28px;
+}
+
+.rodape{
+    background-color:black;
+
+}
+
+.link{
+    color: #FFFFFF;
+}
+
+.informações{
+    color: #B7730E;
+}
+
+.fachada_identifcação{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.laboratorio_identificação{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+
+}
+
+.quadra_identificação{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.patio_identificação{
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+
+}
+
